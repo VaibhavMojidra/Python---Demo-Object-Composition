@@ -1,3 +1,3 @@
 # Python Demo Object Composition
 
-https://github.com/VaibhavMojidra/Python---Demo-Class-And-Its-Objects-Methods/blob/master/output/output.png)
+![Output](https://github.com/VaibhavMojidra/Python---Demo-Object-Composition/blob/master/output/output.png)
